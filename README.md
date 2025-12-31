@@ -1,4 +1,11 @@
 ### Modification in progress
+Plans:
+- [ ] add scematics with more common isolator IC and with SMD sizes that are more hand-soldering friendly.
+- [ ] add gerber files 
+- [ ] add wiki with explanation about USB-Serial IC setup
+
+
+# original README
 # ups-usb
 This repo contains the isolated USB to serial board that I designed for a Serioux LD600LI UPS to get it to talk reliably with NUT.
 Project was designed using Kicad V8.  For more information check out [Voltlog #503](https://youtu.be/ZeoCBQmW2Rw)
