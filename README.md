@@ -1,6 +1,8 @@
 ### Modification in progress
 Plans:
-- [ ] add scematics with more common isolator IC and with SMD sizes that are more hand-soldering friendly.
+- [x] Added Gerber and BOM for original schematic
+- [x] Added schematic, Gerber and BOM for 0402 smd parts and ADUM1201 isolator
+- [ ] add scematics with SMD sizes that are more hand-soldering friendly.
 - [ ] add gerber files 
 - [ ] add wiki with explanation about USB-Serial IC setup
 
